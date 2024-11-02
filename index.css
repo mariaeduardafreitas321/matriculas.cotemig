@@ -1,0 +1,185 @@
+*{ 
+  margin: 0;
+  padding: 0;
+ }
+
+table
+{
+  width: 100%;
+  height: 760px;
+ background-image: url(fundo1.png);
+ background-size: cover;
+
+}
+#roxo{background-color: rgba(58,11,99,1);} 
+
+td{
+  width: 25%;
+}
+
+.tdcenter{ 
+  text-align-last:center;
+}
+
+#rosa{
+  background-color: rgba(251,69,199,1);
+  color: rgb(255, 255, 255);
+}
+
+#fonte0{
+  font-family: Roboto, sans-serif;
+  font-size: 30px;
+  text-align: left;
+  text-align: justify;
+}
+#fonte1{ 
+  font-family: Raleway, sans-serif;
+  font-size: 17px;
+  text-align: left;
+  text-align: justify;
+}
+#fonte2{
+  font-size: 17px;
+  font-family: Raleway, sans-serif;
+  text-align: left;
+  max-width: 386px;
+  text-align: justify;
+}
+
+#verde{
+  background-color: #89f668;
+  text-align: center;
+  width: 1348px;
+  height: 320px;
+}
+
+
+.icn1{ color:  rgb(102, 16, 131);
+    text-align: center;
+    font-size: 18px;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+}
+
+.ab{
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 0 30px;
+}
+
+.ab img{
+  display: block;
+  margin: 0 auto;
+}
+
+#roxo{
+  background-color: rgba(67, 11, 110, 1);
+}
+
+.txtroxo1{
+  margin-top: 40px;
+  color: rgb(137, 246, 104);
+    font-size: 32px;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+  }
+
+
+.txtroxo2{
+  color: rgb(137, 246, 104);
+  font-size: 24px;
+  font-family: Raleway, sans-serif;
+  font-weight: bold;  
+  margin-bottom: 40px;
+}
+
+.txtroxo3{
+  color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    max-width: 344px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+  text-align: justify;
+  text-align: center;
+  align-self: center;
+
+
+}
+
+.txtroxo4{
+  color: rgb(137, 246, 104);
+    font-size: 18px;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-align: left;
+  text-align: justify;
+  align-self: center;
+  }
+
+.roxoclaro{
+  background-color: #5b1078;
+}
+
+.botao{
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(138, 77, 157, 1);
+  border-radius: 11px;
+  color: #FFFFFF;
+  font-family: Raleway, sans-serif;
+  font-size: 19px;
+  font-weight: bold;
+  height: 50px;
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
+  max-width: 291px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.txtfinal1{
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.txtfinal2{
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Raleway, sans-serif;
+  text-align: left;
+  text-align: justify;
+  font-weight: bold;
+
+}
+
+#txtfinal3{
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Raleway, sans-serif;
+  text-align: left;
+  text-align: justify;
+  }
+
+#espaco{font-family: Arial, Helvetica, sans-serif; 
+  color: aliceblue;
+  height: 20%;
+  width: 20%;font-family: Arial, Helvetica, sans-serif; 
+  display: flex;
+  justify-content: space-between;
+  width: 195%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.centralizar{text-align: center;}
+
+
+
